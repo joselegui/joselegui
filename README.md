@@ -20,6 +20,15 @@ values('Jose Ramon','Leguizamon','C# / Java','SQL Server / ACCESS')
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joselegui)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
+<p><a href="https://www.linkedin.com/in/jose-ramon-leguizamon-7351b296/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" </a></p>
+<p><a href="https://www.mokkapps.de">🌐 Check out my website</a></p>
+<h1>Latest Blog Posts</h1>
+  <ul>
+
+
+
+
 
 
 Here are some ideas to get you started:
