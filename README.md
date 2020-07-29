@@ -22,7 +22,6 @@ values('Jose Ramon','Leguizamon','C# / Java','SQL Server / ACCESS')
 
 </p>
 <p><a href="https://www.linkedin.com/in/jose-ramon-leguizamon-7351b296/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" </a></p>
-<p><a href="https://www.mokkapps.de">🌐 Check out my website</a></p>
 <h1>Latest Blog Posts</h1>
   <ul>
 
