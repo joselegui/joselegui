@@ -1,11 +1,26 @@
 ### Hi there 👋:computer:
+````
+public static void Main()
+		{
+			System.Console.WriteLine(“¡Hola Mundo!”);
+		}
+    
+Create TABLE Jose
+(
+Nombre varchar(20),
+Apellido varchar (20),
+Lenguajes varcahar (50),
+BasedeDatos varchar(20),
+primary key (Nombre)
+)
 
-
-
+insert into Jose(Nombre, Apellido,Lenguajes,BasedeDatos) 
+values('Jose Ramon','Leguizamon','C# / Java','SQL Server / ACCESS')
+````
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joselegui)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**joselegui/joselegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
