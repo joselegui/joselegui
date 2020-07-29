@@ -1,4 +1,4 @@
-### Hi, I'am Jose 👋:computer:
+### Hi, I'am Jose 👋:computer:<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="230" />
 ````
 public static void Main()
 		{
@@ -17,6 +17,8 @@ primary key (Nombre)
 insert into Jose(Nombre, Apellido,Lenguajes,BasedeDatos) 
 values('Jose Ramon','Leguizamon','C# / Java','SQL Server / ACCESS')
 ````
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joselegui)](https://github.com/anuraghazra/github-readme-stats)
 
