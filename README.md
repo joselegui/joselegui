@@ -1,4 +1,4 @@
-### Hi, I'am Jose 👋:teachnologinct:
+### Hi, I'am Jose 👋:computer:
 ````
 public static void Main()
 		{
